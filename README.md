@@ -1,5 +1,6 @@
 # Jason A. Corwin, PhD, MS
-## Senior Principal Data Scientist - Data Analytics Portfolio
+### Senior Principal Data Scientist 
+### Data Analytics Portfolio
 
 Welcome to my coding portfolio! \
 Here you will find a collection of example projects and contributions. These are just brief examples of the breadth of coding that I have done in the past. Please see my resume/cv in the root of this repository or feel free to reach out if you have any questions.
