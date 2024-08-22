@@ -1,13 +1,12 @@
 # Jason A. Corwin, PhD, MS
-### Senior Principal Data Scientist 
-### Data Analytics Portfolio
+### Senior Principal Data Scientist - Portfolio
 
 Welcome to my coding portfolio! \
 Here you will find a collection of example projects and contributions. These are just brief examples of the breadth of coding that I have done in the past. Please see my resume/cv in the root of this repository or feel free to reach out if you have any questions.
 
 ## About Me
 
-I am a highly experienced data scientist with a focus on statistics, machine learning, and predictive analytics using a variety of biological dataset. Throughout my academic and industry career, I have worked on a variety complex projects to help elucidate biological interactions at the molecular, cellular, whole organism, and population levels. I have a specific interest in quantative genetics and epidemology of diseases.
+I am a highly experienced data scientist with a focus on statistics, machine learning, and predictive analytics using a variety of biological dataset. Throughout my academic and industry career, I have worked on a variety complex projects to help elucidate biological interactions at the molecular, cellular, whole organism, and population levels. I have a specific interest in quantative genetics and epidemology of diseases and my academic work can be found on my [Google Scholar](https://scholar.google.com/citations?user=9x5h30cAAAAJ&hl=en) page.
 
 There's never been a data set I didn't like!
 
