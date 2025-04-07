@@ -23,7 +23,12 @@ Coming soon!
 Coming soon!
 
 ### Machine Learning
-Coming soon!
+This is a small collection machine learning algorithms demonstrating my ability to use several machine learning methods to address mutliple problems including:
+- Classifications
+- Regressions
+- Support Vector Machines (SVM)
+- Decision Trees
+- Ensemble Methods and Random Forests
 
 ### Natural Language Processing
 Coming soon!
